@@ -1,0 +1,2 @@
+rootProject.name = "SQLiteProjectUpdateandDeleteCommandKotlin"
+include ':app'
